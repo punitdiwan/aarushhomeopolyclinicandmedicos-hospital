@@ -14,10 +14,10 @@ const Home = () => {
             <img src="./img/slider1.jpg" className="d-block w-100" alt="..." />
           </div>
           <div className="carousel-item" data-bs-interval="2000">
-            <img src="./img/slider2.jpg" className="d-block w-100" alt="..." />
+            <img src="./img/slider2.png" className="d-block w-100" alt="..." />
           </div>
           <div className="carousel-item">
-            <img src="./img/slider3.jpg" className="d-block w-100" alt="..." />
+            <img src="./img/slider3.png" className="d-block w-100" alt="..." />
           </div>
         </div>
         <button
@@ -84,11 +84,11 @@ const Home = () => {
               runs on the objective that “the body can cure itself,” and with
               this particular idea, <b>Dr. Shubham Jaiswal</b>, an eminent
               homeopath and <b>Best Homeopathy Doctor in Khargone</b> started
-              the <b>Aarush Homoeo polyclinic and Medicose</b>, a chain of
+              the <b>Aarush Homoeo polyclinic and Medicos</b>, a chain of
               homeopathy clinics spread in and across Khargone.
             </p>
             <p>
-              <b>Aarush Homoeo polyclinic and Medicose ,Khargone </b>comes
+              <b>Aarush Homoeo polyclinic and Medicos ,Khargone </b>comes
               forward with a holistic approach to treat patients with
               personalized Constitutional{" "}
               <em>
@@ -119,14 +119,16 @@ const Home = () => {
             </p>
             <p>Dr. Shubham Jaiswal is highly Qualified with 2 years of  experience .</p>
             <p>
+             
               He is well known all over<b> Khargone </b> He is Expertise in all{" "}
               <em>
                 <b> Homeopathic Treatment</b>
               </em>{" "}
               Many patients come to{" "}
-              <b>Aarush Homoeo polyclinic and Medicose ,Khargone </b> to treat
+              <b>Aarush Homoeo polyclinic and Medicos ,Khargone </b> to treat
               health-related issues from all cities in Madhya Pradesh.
             </p>
+            <p> <b>Aarush Homoeo polyclinic and Medicos ,Khargone Establishment Year  - 1 april 2022 </b> </p>
             <Link to="/aboutdoctor"><button>Read More</button></Link>
           </div>
         </div>

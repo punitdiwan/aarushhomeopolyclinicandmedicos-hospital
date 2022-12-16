@@ -59,7 +59,7 @@ const Respiration = () => {
         </div>
 
         <p>
-          <em>‘Aarush Homoeo polyclinic and Medicose’</em> aims at providing
+          <em>‘Aarush Homoeo polyclinic and Medicos’</em> aims at providing
           comprehensive care of the Respiratory System. We also provide complete
           instructions and Treatment on Respiratory System by
           practicing:

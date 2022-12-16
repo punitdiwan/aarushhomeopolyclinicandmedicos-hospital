@@ -8,7 +8,7 @@ const Footer = () => {
           <div className="footer-col footer-col-1">
             <h4>Best Homeopathic Doctor in Khargone.</h4>
             <p>
-            Homoeopathy consultant. Expertise in all Homeopathic treatments like Pimples, Pigmentation Allergy, Stomach Disorders, Chronic Diseases, Respiratory Disorders, Psychological Treatments.
+            Homoeopathy consultant. Expertise in all Homeopathic treatments like Pimples, Pigmentation Allergy, Stomach Disorders, Head / Brain & Nervous System, Respiratory Disorders, Urinary system, Heart & Blood Circulation, Liver & Gallbladder, Eyes/ Sight , Mouth, Tongue & Throat Psychological Disorders, Depression Treatment, Children Allergies Treatment, Female Disorders, and incurable cases like cancer, cerebral palsy, ADHD, and many other illnesses..
             </p>
           </div>
           <div className="footer-col footer-col-2">
@@ -18,9 +18,9 @@ const Footer = () => {
             </p>
   
             <div className="contact-detail">
-              <p>Contact Number : +91 62611 57702 </p>
-              <p>Contact Number : +91 9977565674</p>
-              <p>Email :  shubhamjaiswal1707@gmail</p>
+              <p>Contact Number : <a href="tel: 62611 57702">+91 62611 57702 </a></p>
+              <p>Contact Number : <a href="tel: 99775 65674">+91 99775 65674</a></p>
+              <p>Email :  <a href="mailto:shubhamjaiswal1707@gmail.com">shubhamjaiswal1707@gmail.com</a></p>
             </div>
             <div className="footer-icon">
               <a href="https://www.facebook.com/aarushhomeoofficial/photos">

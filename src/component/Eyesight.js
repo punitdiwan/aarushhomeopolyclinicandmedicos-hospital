@@ -59,7 +59,7 @@ const Eyesight = () => {
         </div>
 
         <p>
-          <em>‘Aarush Homoeo polyclinic and Medicose’</em> aims at providing
+          <em>‘Aarush Homoeo polyclinic and Medicos’</em> aims at providing
           comprehensive care of the Eyes / Sight. We also provide complete
           instructions and Treatment on Eyes / Sight by practicing:
         </p>

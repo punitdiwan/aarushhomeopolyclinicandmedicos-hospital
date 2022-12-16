@@ -65,7 +65,7 @@ const Headbrain = () => {
         </div>
 
         <p>
-          <em>‘Aarush Homoeo polyclinic and Medicose’</em> aims at providing
+          <em>‘Aarush Homoeo polyclinic and Medicos’</em> aims at providing
           comprehensive care of the Nervous System. We also provide complete
           instructions and Treatment on Nervous System by
           practicing:
