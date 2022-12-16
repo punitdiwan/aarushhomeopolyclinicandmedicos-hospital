@@ -32,9 +32,10 @@ const Doctor = () => {
                 <b> Homeopathic Treatment </b>
               </em>
               Many patients come to
-              <b> Aarush Homoeo polyclinic and Medicose ,Khargone </b> to treat
+              <b> Aarush Homoeo polyclinic and Medicos ,Khargone </b> to treat
               health-related issues from all cities in Madhya Pradesh.
             </p>
+            <p> <b>Aarush Homoeo polyclinic and Medicos ,Khargone Establishment Year  - 1 april 2022 </b> </p>
             <p>
               <b>Dr. Shubham Jaiswal </b>is highly <b>Qualified & trained</b> in
               dealing with all kinds of diseases like Stomach Disorders, Head /

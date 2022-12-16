@@ -56,7 +56,7 @@ const Liver = () => {
         </div>
 
         <p>
-          <em>‘Aarush Homoeo polyclinic and Medicose’</em> aims at providing
+          <em>‘Aarush Homoeo polyclinic and Medicos’</em> aims at providing
           comprehensive care of the Liver & Gallbladder. We also provide
           complete instructions and Treatment on Liver & Gallbladder by
           practicing:

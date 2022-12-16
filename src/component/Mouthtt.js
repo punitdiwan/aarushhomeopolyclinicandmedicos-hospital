@@ -62,7 +62,7 @@ const Mouthtt = () => {
         </div>
 
         <p>
-          <em>‘Aarush Homoeo polyclinic and Medicose’</em> aims at providing
+          <em>‘Aarush Homoeo polyclinic and Medicos’</em> aims at providing
           comprehensive care of the Mouth, Tongue & Throat. We also provide
           complete instructions and Treatment on Mouth, Tongue & Throat by
           practicing:

@@ -27,14 +27,14 @@ const Contactus = () => {
               <i class="fa-solid fa-phone-volume"></i>
               <div>
                 <h5>Call Us</h5>
-                <p>62611 57702 , 9977565674</p>
+                <p><a href='tel: 6261157702'>62611-57702</a> , <a href='tel: 9977565674'>99775-65674</a></p>
               </div>
             </div>
             <div className="contact-col-l">
               <i class="fa-solid fa-envelope"></i>
               <div>
                 <h5>Email</h5>
-                <p>shubhamjaiswal1707@gmail</p>
+                <p><a href='mailto:shubhamjaiswal1707@gmail.com'>shubhamjaiswal1707@gmail.com</a> </p>
               </div>
             </div>
           </div>

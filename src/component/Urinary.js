@@ -51,7 +51,7 @@ const Urinary = () => {
         </div>
 
         <p>
-          <em>‘Aarush Homoeo polyclinic and Medicose’</em> aims at providing
+          <em>‘Aarush Homoeo polyclinic and Medicos’</em> aims at providing
           comprehensive care of the Urinary System. We also provide complete
           instructions and Treatment on Urinary System by
           practicing:

@@ -47,7 +47,7 @@ const Heart = () => {
         </div>
 
         <p>
-          <em>‘Aarush Homoeo polyclinic and Medicose’</em> aims at providing
+          <em>‘Aarush Homoeo polyclinic and Medicos’</em> aims at providing
           comprehensive care of the Heart & Blood Circulation System. We also
           provide complete instructions and Treatment on Heart & Blood
           Circulation System by practicing:
