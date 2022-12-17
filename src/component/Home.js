@@ -12,13 +12,32 @@ const Home = () => {
         <div className="carousel-inner">
           <div className="carousel-item active" data-bs-interval="10000">
             <img src="./img/slider1.jpg" className="d-block w-100" alt="..." />
+            <div className="slide-cont">
+              <h1>Homeopathic Medicines Are Natural, Safe With No Side Effect</h1>
+            </div>
           </div>
-          <div className="carousel-item" data-bs-interval="2000">
+          <div className="carousel-item" data-bs-interval="4000">
+            <img src="./img/slide4.png" className="d-block w-100" alt="..." />
+            {/* <div className="slide-cont slide-hair">
+              <h1>HAIR FALL TREATMENT</h1>
+              <p>  RELIABLE PERMANENT SOLUTION ON BALDNESS, 100% SAFE & NATURAL HAIR </p>
+            </div> */}
+          </div>
+          <div className="carousel-item" data-bs-interval="4000">
             <img src="./img/slider2.png" className="d-block w-100" alt="..." />
+            <div className="slide-cont slide-hair">
+              <h1>HAIR FALL TREATMENT</h1>
+              <p>  RELIABLE PERMANENT SOLUTION ON BALDNESS, 100% SAFE & NATURAL HAIR </p>
+            </div>
           </div>
-          <div className="carousel-item">
+          <div className="carousel-item" data-bs-interval="4000">
             <img src="./img/slider3.png" className="d-block w-100" alt="..." />
+            <div className="slide-cont">
+              <h1>SKIN  TREATMENT</h1>
+              <p>RESTORE YOUR SKIN TO IT'S NATURAL BEAUTY</p>
+            </div>
           </div>
+          
         </div>
         <button
           className="carousel-control-prev"
@@ -26,10 +45,11 @@ const Home = () => {
           data-bs-target="#carouselExampleInterval"
           data-bs-slide="prev"
         >
-          <span
+          {/* <span
             className="carousel-control-prev-icon"
             aria-hidden="true"
-          ></span>
+          ></span> */}
+
           <span className="visually-hidden">Previous</span>
         </button>
         <button
