@@ -1209,3 +1209,45 @@ button[disabled] {
     font-size: 15px;
   }
 }
+
+/* ----------------gallery----------- */
+
+.gallery{
+  width: 85vw;
+  margin: auto;
+  margin-bottom: 20px
+}
+.gallery-row{
+  display: flex;
+  /* justify-content: center; */
+  justify-content: space-between;
+  align-items: center;
+}
+.gallery-col{
+  flex-basis: 28%;
+}
+
+
+.gallery-col img{
+  width: 25vw;
+  height: 50vh;
+}
+.gallery-col-1 img{
+  width: 85vw;
+  height: 60vh;
+}
+
+@media (max-width:700px) {
+  .gallery-row{
+    flex-direction: column;
+  }
+  .gallery-col img{
+    width: 85vw;
+    height: 80vh;
+  margin-bottom: 20px;
+  }
+  .gallery-col-1 img{
+    width: 85vw;
+    height: 70vh;
+  }
+}
