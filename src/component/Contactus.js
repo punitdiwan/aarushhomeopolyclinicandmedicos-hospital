@@ -1,6 +1,20 @@
-import React from 'react'
+import React, { useState } from 'react'
+import { ToastContainer, toast } from 'react-toastify';
+import 'react-toastify/dist/ReactToastify.css';
 
 const Contactus = () => {
+  const[gmail,setGmail] =useState("")
+
+
+  const notify =()=>{
+     if(gmail){
+      toast.success("Succesfull  ",{
+        position: "top-center"
+      });   
+     }
+   
+  }
+
   return (
     <>
       <div className="dr-header">
@@ -76,6 +90,8 @@ const Contactus = () => {
                     placeholder="Your Email*"
                     aria-label="Your Email"
                     autoComplete="off"
+                    value={gmail}
+                    onChange={(e)=>setGmail(e.target.value)}
                     required
                   />
                 </div>
@@ -108,7 +124,7 @@ const Contactus = () => {
                 /> */}
               </div>
               <div className="send-msg">
-                <button type="submit" value="Submit" >
+                <button type='submit'  onClick={()=>notify()}>
                   SEND MESSAGE
                 </button>
               </div>
@@ -117,9 +133,7 @@ const Contactus = () => {
         </div>
       </div>
 
-      {/* <div className="contact-img">
-        <img src="https://www.postplanner.com/hs-fs/hubfs/How-to-Contact-Facebook-Support-1.png?noresize&width=980&height=515&name=How-to-Contact-Facebook-Support-1.png" />
-      </div> */}
+   <ToastContainer />
     </>
   )
 }
