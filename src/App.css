@@ -1215,39 +1215,29 @@ button[disabled] {
 .gallery{
   width: 85vw;
   margin: auto;
-  margin-bottom: 20px
+ padding: 50px 0 0 0;
 }
 .gallery-row{
   display: flex;
-  /* justify-content: center; */
   justify-content: space-between;
   align-items: center;
+  margin-bottom: 40px;
 }
 .gallery-col{
-  flex-basis: 28%;
+  flex-basis: 33%;
 }
-
-
 .gallery-col img{
   width: 25vw;
-  height: 50vh;
+  height: 55vh;
 }
-.gallery-col-1 img{
-  width: 85vw;
-  height: 60vh;
-}
-
 @media (max-width:700px) {
   .gallery-row{
     flex-direction: column;
+    margin-bottom: 0px;
   }
   .gallery-col img{
     width: 85vw;
-    height: 80vh;
-  margin-bottom: 20px;
-  }
-  .gallery-col-1 img{
-    width: 85vw;
-    height: 70vh;
+   height: 65vh;
+   margin-bottom: 40px;
   }
 }
